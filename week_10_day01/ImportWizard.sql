@@ -1,1 +1,0 @@
-SELECT * FROM Miscellaneous_DB.birdsong;
